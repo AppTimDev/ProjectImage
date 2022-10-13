@@ -3,11 +3,10 @@ handle image processing
 
 ---
 
-
-
 ## Environment:
 - Windows 10
 - Python 3.10.4
+- pip 22.2.2
 - Pillow 9.2.0
 
 ---
